@@ -1,4 +1,17 @@
+Photo Gallery App fetches data from shibes.online API and displays images based on the user search. Photo Gallery project uses technologies such as React, Axios, Node.js, and NPM and it is hosted on Netlify.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Author
+Sonia Satam 
+
+## Demo Link
+
+Live Demo https://soniasatamcsds.netlify.app
+
+![PhotoGalleryApp](https://user-images.githubusercontent.com/105906605/191597397-a3862cdf-c779-4b4c-b4c6-def64fd4d918.PNG)
+
+
 
 ## Available Scripts
 
@@ -37,10 +50,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Demo Link
 
-Please check the demo of the Photo Gallery using below mentioned URL
-https://soniasatamcsds.netlify.app
 
 
 ## Learn More
